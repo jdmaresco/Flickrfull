@@ -19,3 +19,4 @@ doc/
 
 # Flickrfull folder
 /images
+.DS_Store
